@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //Exercicio matriz
+//Atualizado
 int main ()
 {
   int matriz[4][4],i, j;
